@@ -88,3 +88,4 @@ This repository contains both the frontend and backend parts of the application:
 
 ## Git Repository & Push Details
 To push this project to your repository, standard git tracking has been configured to exclude dynamic folders such as `node_modules` and local environment variables `.env`.
+
