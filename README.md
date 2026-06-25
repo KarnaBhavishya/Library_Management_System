@@ -1,6 +1,10 @@
 # Library Management System
 
-A web-based Library Management System developed with a Node.js (Express & Sequelize) backend and a React (Vite & Tailwind CSS/Vanilla CSS) frontend.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/KarnaBhavishya/Library_Management_System)
+[![Node.js](https://img.shields.io/badge/Node.js-16%2B-339933?logo=node.js)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-Vite-61DAFB?logo=react)](https://vitejs.dev/)
+
+A web-based Library Management System developed with a Node.js (Express & Sequelize) backend and a React (Vite) frontend for managing books, students, and borrowing activity.
 
 ## Project Structure
 
